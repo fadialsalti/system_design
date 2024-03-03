@@ -10,5 +10,4 @@ dist/
 venv/
 
 # secret stuff
-secret.yaml
 init.sql
