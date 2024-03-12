@@ -8,6 +8,7 @@ htmlcov/
 docs/_build/
 dist/
 venv/
+*.mp4
 
 # secret stuff
 init.sql
